@@ -17,6 +17,7 @@ class MainApp extends StatelessWidget {
           child: SizedBox(
             width: 200,
             height: 200,
+            child: Text('Hello'),
           ),
         ),
       ),
